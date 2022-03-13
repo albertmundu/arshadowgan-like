@@ -1,7 +1,7 @@
 python3 src/train_SG.py \
-    --dataset_path '/content/arshadowgan/dataset/' \
-    --Gmodel_path '/content/drive/MyDrive/SG_generator.pth' \
-    --Dmodel_path '/content/drive/MyDrive/SG_discriminator.pth' \
+    --dataset_path './dataset/' \
+    --Gmodel_path './output/SG_generator.pth' \
+    --Dmodel_path './output/SG_discriminator.pth' \
     --batch_size 18 \
     --seed 42 \
     --img_size 256 \
