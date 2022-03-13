@@ -1,4 +1,4 @@
-# GAN training on shadow generation task example
+# GAN training on shadow generation task example (forked)
 ![Alt text](imgs/demo-en.png?raw=true "Title")
 ### Colab Notebook
 PyTorch Colab notebook: <a href="https://colab.research.google.com/drive/1fZl1Pb-qWa6OZQgJ-9SMBm8Dd_WY1fsq?usp=sharing">ARShadowGAN-like</a>
